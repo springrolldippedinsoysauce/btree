@@ -1,3 +1,5 @@
+How-to-run: Compile everything and run TreeProfiler without any command-line arguments
+
 Purpose: A program which utilizes Tree Data Structures to store large amount of 
          data (e.g. files about stock information)
 
